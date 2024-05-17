@@ -9,3 +9,9 @@
 7. https://github.com/dotnet
 8. https://github.com/dotnet/eShop
 9. https://github.com/abpframework
+10. https://github.com/aspnetboilerplate
+11. https://github.com/aspnetboilerplate/aspnetboilerplate-samples
+12. https://github.com/abpframework/eShopOnAbp
+13. https://github.com/abpframework/abp-samples
+14. https://github.com/dotnet/efcore
+15. https://github.com/quartznet
