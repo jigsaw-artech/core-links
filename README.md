@@ -17,3 +17,4 @@
 15. https://github.com/quartznet
 16. https://github.com/elsa-workflows
 17. https://github.com/elsa-workflows/elsa-core
+18. https://learn.microsoft.com/en-us/dotnet/fundamentals/
