@@ -16,3 +16,4 @@
 14. https://github.com/dotnet/efcore
 15. https://github.com/quartznet
 16. https://github.com/elsa-workflows
+17. https://github.com/elsa-workflows/elsa-core
