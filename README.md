@@ -19,3 +19,4 @@
 17. https://github.com/elsa-workflows/elsa-core
 18. https://learn.microsoft.com/en-us/dotnet/fundamentals/
 19. https://www.c-sharpcorner.com/UploadFile/1d42da/thread-locking-in-C-Sharp/
+20. https://www.c-sharpcorner.com/UploadFile/1c8574/events-in-C-Sharp/
