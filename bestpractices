@@ -1,0 +1,15 @@
+Events should be used when it is inappropriate for the code which originates the action to have direct knowledge of the code(s) which react to that action.
+
+Lets explain with an help of example
+
+Question
+
+In your System you have Data objects sent to you say you have 50 Data object sent per minute from an external system.Upon receiving this you need to have it processed by another object.
+
+Would an event or a simple method call be better to use in this situation?
+
+Answer
+
+On one hand, an event does sound appropriate here, because the code which handles data reception should not be dependent on the implementation of the code which does something with said data. Otherwise the data reception code is now responsible for two things - receiving the data and delegating the processing of it.
+
+On the other hand, if the particular processing of the data is directly tied to act of it being sent by the external caller, it may make more sense to make it a function call
