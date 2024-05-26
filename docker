@@ -1,3 +1,8 @@
 docker important commands :
 - to install infra (sqlserver, rabbitmq etc)
 docker-compose up -d
+
+>>>>>>>>>>>>>
+
+create pfx certificate for https apps that published at docker container
+dotnet dev-certs https -ep $env:USERPROFILE\.aspnet\https\regla-cert.pfx -p J4karta@123
