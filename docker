@@ -1,0 +1,3 @@
+docker important commands :
+- to install infra (sqlserver, rabbitmq etc)
+docker-compose up -d
