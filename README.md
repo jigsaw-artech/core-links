@@ -25,3 +25,4 @@
 23. https://www.linkedin.com/pulse/mastering-lock-statement-c-roman-fairushyn/
 24. https://www.c-sharpcorner.com/UploadFile/pranayamr/publisher-or-subscriber-pattern-with-event-or-delegate-and-e/
 25. https://www.c-sharpcorner.com/UploadFile/1c8574/events-in-C-Sharp/
+26. https://aspnetboilerplate.com/Pages/Documents/Zero/Startup-Template-Angular
