@@ -21,3 +21,4 @@
 19. https://www.c-sharpcorner.com/UploadFile/1d42da/thread-locking-in-C-Sharp/
 20. https://www.c-sharpcorner.com/UploadFile/1c8574/events-in-C-Sharp/
 21. https://buildplease.com/pages/why-delegates/
+22. https://www.c-sharpcorner.com/Resources/1814/c-sharp-lock-statement.aspx
