@@ -23,3 +23,4 @@
 21. https://buildplease.com/pages/why-delegates/
 22. https://www.c-sharpcorner.com/Resources/1814/c-sharp-lock-statement.aspx
 23. https://www.linkedin.com/pulse/mastering-lock-statement-c-roman-fairushyn/
+24. https://www.c-sharpcorner.com/UploadFile/pranayamr/publisher-or-subscriber-pattern-with-event-or-delegate-and-e/
