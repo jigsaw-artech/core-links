@@ -26,3 +26,4 @@
 24. https://www.c-sharpcorner.com/UploadFile/pranayamr/publisher-or-subscriber-pattern-with-event-or-delegate-and-e/
 25. https://www.c-sharpcorner.com/UploadFile/1c8574/events-in-C-Sharp/
 26. https://aspnetboilerplate.com/Pages/Documents/Zero/Startup-Template-Angular
+27. https://learn.microsoft.com/en-us/ef/
